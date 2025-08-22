@@ -63,8 +63,6 @@ git clone https://github.com/adriancrc/ansys-tutoriales.git
 2. Importa el archivo .wbpz en ANSYS Workbench.
 3. Revisa condiciones de frontera, material y resultados.
 
-
-
 ### 🔹 Opción 2: Descargar desde Releases
 
 1. Dirígete a la sección Releases.
