@@ -35,7 +35,7 @@ Ideal para estudiantes, docentes e ingenieros que deseen reforzar conceptos de m
 
 ## 📂 Archivos incluidos
 
-- `geometry/probeta.scdoc` → Geometría CAD de la probeta.  
+- `geometry/Geometry - Uniaxial Tension Test.scdoc` → Geometría CAD de la probeta.  
 - `workbench/tension_uniaxial.wbpz` → Proyecto completo de ANSYS Workbench.  
 - `results/tension.rst` → Resultados de la simulación (requiere ANSYS).  
 - 🎥 [Video paso a paso en YouTube](https://www.youtube.com/watch?v=ERwnnnPVWfo) → Explicación completa del procedimiento.  
