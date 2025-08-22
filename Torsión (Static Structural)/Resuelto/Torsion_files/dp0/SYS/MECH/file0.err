@@ -1,0 +1,11 @@
+/COM,ANSYS RELEASE 2025 R2           BUILD 25.2      UP20250519       10:31:16
+
+ *** WARNING ***                         CP =       0.375   TIME= 10:31:17
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       0.500   TIME= 10:31:17
+ It has been detected that you are using reduced integration brick       
+ elements along with the PCG solver (EQSLV,PCG).  Please verify that     
+ you have multiple elements through the thickness in your model or       
+ switch to the SPARSE solver (EQSLV,SPARSE).                             
