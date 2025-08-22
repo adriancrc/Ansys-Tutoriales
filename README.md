@@ -64,7 +64,7 @@ git clone https://github.com/adriancrc/ansys-tutoriales.git
 
 ### 🔹 Opción 2: Descargar desde Releases
 
-1. Dirígete a la sección Releases.
+1. Dirígete a la sección [Releases](https://github.com/adriancrc/Ansys-Tutoriales/releases) section.
 2. Descarga el archivo .zip correspondiente al tutorial.
 3. Extrae y abre el proyecto en ANSYS Workbench.
 
