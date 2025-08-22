@@ -38,6 +38,10 @@ Designed for students, educators, and engineers who want to strengthen their kno
 ⚙️ **Torsion (Static Structural)**  
   📂 [GitHub Repository](https://github.com/adriancrc/Ansys-Tutoriales/tree/main/Torsi%C3%B3n%20(Static%20Structural)) · 🎥 [Watch on YouTube](https://youtu.be/_SWBRu8z728)
 
+⚙️ **Uniaxial Tensile Test (Static Structural)**  
+  📂 [GitHub Repository](https://github.com/adriancrc/Ansys-Tutoriales/tree/main/Tensi%C3%B3n%20(Static%20Structural)) · 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=ERwnnnPVWfo)
+
+
 ---
 
 ## ✨ Features
