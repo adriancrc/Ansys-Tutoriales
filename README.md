@@ -65,7 +65,7 @@ git clone https://github.com/adriancrc/ansys-tutoriales.git
 
 
 
-🔹 Opción 2: Descargar desde Releases
+### 🔹 Opción 2: Descargar desde Releases
 
 1. Dirígete a la sección Releases.
 2. Descarga el archivo .zip correspondiente al tutorial.
