@@ -9,6 +9,7 @@
 ![GitHub Release](https://img.shields.io/github/v/release/adriancrc/Torsion-Static-Structural)
 ![Total Downloads](https://img.shields.io/github/downloads/adriancrc/Torsion-Static-Structural/total)
 ![Tested with ANSYS](https://img.shields.io/badge/Tested%20with-ANSYS-orange)
+![Top language](https://img.shields.io/badge/Top%20Language-ANSYS-blue)
 ![Made with ANSYS](https://img.shields.io/badge/Made%20with-ANSYS-black)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Use Case](https://img.shields.io/badge/Use-Educational-success)
