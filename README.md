@@ -35,7 +35,7 @@ Ideal para estudiantes, docentes e ingenieros que deseen reforzar sus conocimien
 ## 📂 Contenido
 
 ⚙️ **Torsión (Static Structural)**  
-  📂 [Repositorio en GitHub](https://github.com/adriancrc/ansys-tutoriales/tree/main/Torsión (Static Structural)) · 🎥 [Ver en YouTube](https://youtu.be/_SWBRu8z728) 
+  📂 [Repositorio en GitHub](https://github.com/adriancrc/Ansys-Tutoriales/tree/main/Torsi%C3%B3n%20(Static%20Structural)) · 🎥 [Ver en YouTube](https://youtu.be/_SWBRu8z728)
 
 ---
 
