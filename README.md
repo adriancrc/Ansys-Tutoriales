@@ -57,7 +57,8 @@ Ideal para estudiantes, docentes e ingenieros que deseen reforzar sus conocimien
 ```bash
 git lfs install
 git clone https://github.com/adriancrc/ansys-tutoriales.git
----
+```
+
 1. Abre la carpeta del análisis deseado (ej. video-ansys-torsion/).
 2. Importa el archivo .wbpz en ANSYS Workbench.
 3. Revisa condiciones de frontera, material y resultados.
