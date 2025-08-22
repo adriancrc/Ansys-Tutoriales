@@ -10,7 +10,7 @@
 ![Total Downloads](https://img.shields.io/github/downloads/adriancrc/ansys-tutoriales/total)
 ![Tested with ANSYS](https://img.shields.io/badge/Tested%20with-ANSYS-orange)
 ![Made with ANSYS](https://img.shields.io/badge/Made%20with-ANSYS-black)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Use Case](https://img.shields.io/badge/Use-Educational-success)
 ![Author](https://img.shields.io/badge/Author-Adrián%20Quesada%20Martínez-blueviolet)
 ![Developed at ITCR](https://img.shields.io/badge/Developed%20at-ITCR-blue)
