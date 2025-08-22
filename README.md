@@ -2,7 +2,8 @@
 
 🌐 This README is also available in English 🇺🇸: [README.en.md](README.en.md)
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Adrián%20Quesada-red?logo=youtube)](https://youtube.com/@adrian-quesada)  
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Adrián%20Quesada-red?logo=youtube)](https://youtube.com/@adrian-quesada)
+[![YouTube Playlist](https://img.shields.io/badge/YouTube-ANSYS%20Tutoriales-red?logo=youtube&style=flat)](https://www.youtube.com/playlist?list=PLoS7esn6vSq-qijNcN_5N_DmRPoeeX0lL)
 ![License](https://img.shields.io/badge/License-MIT-blue)  
 ![LFS](https://img.shields.io/badge/Git-LFS-important) 
 ![GitHub Release](https://img.shields.io/github/v/release/adriancrc/ansys-tutoriales)
