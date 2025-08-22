@@ -35,7 +35,7 @@ Designed for students, educators, and engineers who want to strengthen their kno
 
 ## 📂 Included Files
 
-- `geometry/probeta.scdoc` → CAD geometry of the specimen.  
+- `geometry/Geometry - Uniaxial Tension Test.scdoc` → CAD geometry of the specimen.  
 - `workbench/tension_uniaxial.wbpz` → Complete ANSYS Workbench project.  
 - `results/tension.rst` → Simulation results (requires ANSYS).  
 - 🎥 [Step-by-step video on YouTube](https://www.youtube.com/watch?v=ERwnnnPVWfo) → Full explanation of the procedure.  
