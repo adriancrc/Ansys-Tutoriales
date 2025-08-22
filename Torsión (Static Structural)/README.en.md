@@ -35,7 +35,7 @@ Ideal for students, educators, and engineers who want to reinforce concepts of m
 
 ## 📂 Included Files
 
-- `geometry/probeta.step` → CAD geometry of the specimen.  
+- `geometry/probeta.scdoc` → CAD geometry of the specimen.  
 - `workbench/torsion.wbpz` → Complete ANSYS Workbench project.  
 - `results/torsion.rst` → Simulation results (requires ANSYS).  
 - 🎥 [Step-by-step YouTube video](https://www.youtube.com/watch?v=_SWBRu8z728) → Full tutorial explanation.
