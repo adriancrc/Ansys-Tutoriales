@@ -64,7 +64,8 @@ git clone https://github.com/adriancrc/Torsion-Static-Structural.git
 ```
 ### 🔹 Opción 2: Descargar desde Releases
 
-1. Dirígete a la sección [Releases](https://github.com/adriancrc/Torsion-Static-Structural/releases).  
+1. Dirígete a la sección [Releases](https://github.com/adriancrc/Ansys-Tutoriales/releases).  
+
 2. Descarga el archivo `.zip` correspondiente.  
 3. Extrae y abre el proyecto en **ANSYS Workbench**.  
 
