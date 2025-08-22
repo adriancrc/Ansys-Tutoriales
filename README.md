@@ -10,7 +10,6 @@
 ![Total Downloads](https://img.shields.io/github/downloads/adriancrc/ansys-tutoriales/total)
 ![Tested with ANSYS](https://img.shields.io/badge/Tested%20with-ANSYS-orange)
 ![Made with ANSYS](https://img.shields.io/badge/Made%20with-ANSYS-black)
-![Top language](https://img.shields.io/github/languages/top/adriancrc/ansys-tutoriales?label=Top%20Language&color=blue&cacheSeconds=3600)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
 ![Use Case](https://img.shields.io/badge/Use-Educational-success)
 ![Author](https://img.shields.io/badge/Author-Adrián%20Quesada%20Martínez-blueviolet)
@@ -33,9 +32,9 @@ Ideal para estudiantes, docentes e ingenieros que deseen reforzar sus conocimien
 
 ---
 
-## 🧮 Análisis incluidos
+## 📂 Contenido
 
-- **Torsión (Static Structural)**  
+- 📌 **Torsión (Static Structural)** → [`video-ansys-torsion/`](video-ansys-torsion/) · [YouTube]([ENLACE_VIDEO](https://www.youtube.com/watch?v=_SWBRu8z728))  
 - **Flexión de Viga**  
 - **Contacto Mecánico**  
 
@@ -58,3 +57,50 @@ Ideal para estudiantes, docentes e ingenieros que deseen reforzar sus conocimien
 ```bash
 git lfs install
 git clone https://github.com/adriancrc/ansys-tutoriales.git
+
+1. Abre la carpeta del análisis deseado (ej. video-ansys-torsion/).
+2. Importa el archivo .wbpz en ANSYS Workbench.
+3. Revisa condiciones de frontera, material y resultados.
+
+🔹 Opción 2: Descargar desde Releases
+
+1. Dirígete a la sección Releases.
+2. Descarga el archivo .zip correspondiente al tutorial.
+3. Extrae y abre el proyecto en ANSYS Workbench.
+
+---
+
+## ⚙️ Requisitos
+
+- **ANSYS Workbench** (versión recomendada: 2025 R1).  
+- **Git LFS** instalado en tu entorno para descargar proyectos pesados.
+
+---
+
+## 📬 Soporte
+
+¿Consultas o sugerencias?  
+📧 [adquesada@itcr.ac.cr](mailto:adquesada@itcr.ac.cr)
+
+---
+
+## 📄 Licencia
+
+Código y configuraciones → MIT
+
+Imágenes, miniaturas y material docente → CC BY 4.0
+
+Consulta el archivo  [`LICENSE`](LICENSE) para más detalles.
+
+---
+
+## ⭐ ¡Apoya este proyecto!
+
+Si este material te fue útil:  
+- Deja una ⭐ en GitHub  
+- Suscríbete al canal 👉 [YouTube - Adrián Quesada](https://youtube.com/@adrian-quesada)  
+- Mira la lista completa de tutoriales de ANSYS aquí 👉 [YouTube Playlist](https://www.youtube.com/playlist?list=PLoS7esn6vSq-qijNcN_5N_DmRPoeeX0lL)  
+- Comparte con colegas y estudiantes 🚀
+
+[![YouTube Playlist](https://img.shields.io/badge/YouTube-ANSYS%20Tutoriales-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/playlist?list=PLoS7esn6vSq-qijNcN_5N_DmRPoeeX0lL)
+
