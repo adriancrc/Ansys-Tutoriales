@@ -1,0 +1,32 @@
+# -------------------------
+# Git LFS (archivos grandes)
+# -------------------------
+*.wbpz filter=lfs diff=lfs merge=lfs -ANSYS
+*.wbpj filter=lfs diff=lfs merge=lfs -ANSYS
+*.rst  filter=lfs diff=lfs merge=lfs -ANSYS
+*.rth  filter=lfs diff=lfs merge=lfs -ANSYS
+*.cdb  filter=lfs diff=lfs merge=lfs -ANSYS
+*.msh  filter=lfs diff=lfs merge=lfs -ANSYS
+*.cas  filter=lfs diff=lfs merge=lfs -ANSYS
+*.dat  filter=lfs diff=lfs merge=lfs -ANSYS
+*.step filter=lfs diff=lfs merge=lfs -ANSYS
+*.stp  filter=lfs diff=lfs merge=lfs -ANSYS
+*.iges filter=lfs diff=lfs merge=lfs -ANSYS
+*.igs  filter=lfs diff=lfs merge=lfs -ANSYS
+*.zip  filter=lfs diff=lfs merge=lfs -ANSYS
+
+# ---------------------------------------
+# GitHub Linguist (estadísticas de lenguajes)
+# ---------------------------------------
+#*.wbpz linguist-language=ANSYS
+#*.wbpj linguist-language=ANSYS
+#*.rst  linguist-language=ANSYS
+#*.rth  linguist-language=ANSYS
+#*.cdb  linguist-language=ANSYS
+#*.msh  linguist-language=ANSYS
+#*.cas  linguist-language=ANSYS
+#*.dat  linguist-language=ANSYS
+#*.step linguist-language=ANSYS
+#*.stp  linguist-language=ANSYS
+#*.iges linguist-language=ANSYS
+#*.igs  linguist-language=ANSYS
