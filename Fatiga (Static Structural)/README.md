@@ -70,44 +70,49 @@ Verifica material, condiciones de frontera y parámetros de Fatigue Tool.
 
 Resuelve y analiza vida/daño en el filete del eje.
 
-🔹 Opción 2: Descargar desde Releases
-Ve a Releases.
+### 🔹 Opción 2: Descargar desde Releases
 
-Descarga el .zip correspondiente.
+1. Dirígete a la sección [Releases](https://github.com/adriancrc/Ansys-Tutoriales/releases).  
 
-Extrae y abre el proyecto en ANSYS Workbench.
+2. Descarga el archivo `.zip` correspondiente.  
+3. Extrae y abre el proyecto en **ANSYS Workbench**.  
 
-⚙️ Requisitos
-ANSYS Workbench (recomendado: 2025 R1 o equivalente).
+---
 
-Git LFS instalado para descargar proyectos pesados.
+## ⚙️ Requisitos
 
-📚 Referencias rápidas
-Curva S–N (Wöhler) y correcciones por esfuerzo medio (Goodman).
+- **ANSYS Workbench** (versión recomendada: 2025 R2).  
+- **Git LFS** instalado en tu entorno para descargar proyectos pesados.  
 
-Regla de daño acumulado (Palmgren–Miner).
+---
 
-Efecto de concentración de esfuerzos (Kt) por geometría del filete.
+## 📬 Soporte
 
-📬 Soporte
-¿Consultas o sugerencias?
-📧 adquesada@itcr.ac.cr
+¿Consultas o sugerencias?  
+📧 [adquesada@itcr.ac.cr](mailto:adquesada@itcr.ac.cr)
 
-📄 Licencia
-Código y configuraciones → MIT
-Imágenes, miniaturas y material docente → CC BY 4.0
+---
 
-Consulta el archivo LICENSE para más detalles.
+## 📄 Licencia
 
-⭐ ¡Apoya este proyecto!
-Si este material te fue útil:
+Código y configuraciones → **MIT**  
 
-Deja una ⭐ en GitHub
+Imágenes, miniaturas y material docente → **CC BY 4.0**  
 
-Suscríbete al canal 👉 YouTube - Adrián Quesada
+Consulta el archivo [`LICENSE`](LICENSE) para más detalles.  
 
-Mira más tutoriales de ANSYS aquí 👉 YouTube Playlist
+---
 
-Comparte con colegas y estudiantes 🚀
+## ⭐ ¡Apoya este proyecto!
+
+Si este material te fue útil:  
+- Deja una ⭐ en GitHub  
+- Suscríbete al canal 👉 [YouTube - Adrián Quesada](https://youtube.com/@adrian-quesada)  
+- Comparte con colegas y estudiantes 🚀
+
+[![YouTube Video](https://img.shields.io/badge/YouTube-Tutorial%20Fatiga-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=e0tzgJJADhs)
+
+---
 
 © 2025 Adrián José Quesada Martínez
+
