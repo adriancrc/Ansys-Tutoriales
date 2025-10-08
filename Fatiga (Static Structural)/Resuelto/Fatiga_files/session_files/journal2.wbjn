@@ -1,0 +1,154 @@
+# encoding: utf-8
+# 2025 R1
+SetScriptVersion(Version="25.1.122")
+system1 = GetSystem(Name="SYS")
+engineeringData1 = system1.GetContainer(ComponentName="Engineering Data")
+material1 = engineeringData1.GetMaterial(Name="Structural Steel")
+matl1 = material1.Duplicate(TargetContainer=engineeringData1)
+matl1.DisplayName = "Acero 1020"
+matl1.Unlink()
+matlProp1 = matl1.GetProperty(Name="S-N Curve")
+matlProp1.BeginBatchUpdate()
+matlProp1.SetVariableProperty(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    VariableName="Alternating Stress",
+    Property="Unit",
+    Value="MPa")
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Variables=["Alternating Stress"],
+    Values=[["3999 [MPa]", "2827 [MPa]", "1896 [MPa]", "1413 [MPa]", "1069 [MPa]", "441 [MPa]", "262 [MPa]", "214 [MPa]", "138 [MPa]", "114 [MPa]", "86.2 [MPa]"]])
+matlProp1.EndBatchUpdate()
+matlProp1.BeginBatchUpdate()
+matlProp1.SetVariableProperty(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    VariableName="Alternating Stress",
+    Property="Unit",
+    Value="Pa")
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Variables=["Alternating Stress"],
+    Values=[["3999000000 [Pa]", "2827000000 [Pa]", "1896000000 [Pa]", "1413000000 [Pa]", "1069000000 [Pa]", "441000000 [Pa]", "262000000 [Pa]", "214000000 [Pa]", "138000000 [Pa]", "114000000 [Pa]", "86200000 [Pa]"]])
+matlProp1.EndBatchUpdate()
+matlProp1.BeginBatchUpdate()
+matlProp1.SetVariableProperty(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    VariableName="Alternating Stress",
+    Property="Unit",
+    Value="MPa")
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Variables=["Alternating Stress"],
+    Values=[["3999 [MPa]", "2827 [MPa]", "1896 [MPa]", "1413 [MPa]", "1069 [MPa]", "441 [MPa]", "262 [MPa]", "214 [MPa]", "138 [MPa]", "114 [MPa]", "86.2 [MPa]"]])
+matlProp1.EndBatchUpdate()
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Variables=["Alternating Stress"],
+    Values=[["248.966198636287 [MPa]"]])
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Index=1,
+    Variables=["Alternating Stress"],
+    Values=[["241.911930236166 [MPa]"]])
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Index=2,
+    Variables=["Alternating Stress"],
+    Values=[["233.82668784392 [MPa]"]])
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Index=3,
+    Variables=["Alternating Stress"],
+    Values=[["228.362626579382 [MPa]"]])
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Index=4,
+    Variables=["Alternating Stress"],
+    Values=[["223.282158694908 [MPa]"]])
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Index=5,
+    Variables=["Alternating Stress"],
+    Values=[["207.956694454563 [MPa]"]])
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Index=6,
+    Variables=["Alternating Stress"],
+    Values=[["197.952448051816 [MPa]"]])
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Index=7,
+    Variables=["Alternating Stress"],
+    Values=[["193.738602849499 [MPa]"]])
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Index=8,
+    Variables=["Alternating Stress"],
+    Values=[["184.115692096165 [MPa]"]])
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Index=9,
+    Variables=["Alternating Stress"],
+    Values=[["180.033519782569 [MPa]"]])
+matlProp1.SetData(
+    SheetName="S-N Curve",
+    SheetQualifiers={"Definition": "", "Behavior": "", "Interpolation": "Log-Log"},
+    Index=10,
+    Variables=["Alternating Stress"],
+    Values=[["170.695492892089 [MPa]"]])
+matlProp2 = matl1.GetProperty(Name="Elasticity")
+matlProp2.SetData(
+    Variables=["Young's Modulus"],
+    Values=[["210000000000 [Pa]"]])
+matlProp2.SetData(
+    Variables=["Poisson's Ratio"],
+    Values=[["0.295"]])
+matlProp3 = matl1.GetProperty(Name="Tensile Yield Strength")
+matlProp3.SetData(
+    Variables=["Tensile Yield Strength"],
+    Values=[["447.5 [Pa]"]])
+matlProp3.SetData(
+    Variables=["Tensile Yield Strength"],
+    Values=[["7.88860905221012E-31 [Pa]"]])
+matlProp3.SetData(
+    Variables=["Tensile Yield Strength"],
+    Values=[["447.5 [Pa]"]])
+matlProp3.SetData(
+    Variables=["Tensile Yield Strength"],
+    Values=[["447500000 [Pa]"]])
+matlProp4 = matl1.GetProperty(Name="Compressive Yield Strength")
+matlProp4.SetData(
+    Variables=["Compressive Yield Strength"],
+    Values=[["330000000 [Pa]"]])
+matlProp3.SetData(
+    Variables=["Tensile Yield Strength"],
+    Values=[["330000000 [Pa]"]])
+matlProp5 = matl1.GetProperty(Name="Tensile Ultimate Strength")
+matlProp5.SetData(
+    Variables=["Tensile Ultimate Strength"],
+    Values=[["447.5 [Pa]"]])
+matlProp5.SetData(
+    Variables=["Tensile Ultimate Strength"],
+    Values=[["447500000 [Pa]"]])
+modelComponent1 = system1.GetComponent(Name="Model")
+modelComponent1.Refresh()
+model1 = system1.GetContainer(ComponentName="Model")
+model1.Edit()
+model1.Exit()
+Save(Overwrite=True)
