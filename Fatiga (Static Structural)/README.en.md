@@ -1,6 +1,6 @@
 # 🟠 ANSYS · Stepped Shaft Fatigue (Static Structural)
 
-🌐 También disponible en español 🇲🇽: [README.md](README.md)
+🌐 También disponible en español 🇪🇸: [README.md](README.md)
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Adrián%20Quesada-red?logo=youtube)](https://youtube.com/@adrian-quesada)
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-ANSYS%20Playlist-red?logo=youtube&style=flat)](https://www.youtube.com/playlist?list=PLoS7esn6vSq-qijNcN_5N_DmRPoeeX0lL)
