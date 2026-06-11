@@ -35,11 +35,14 @@ Designed for students, educators, and engineers who want to strengthen their kno
 
 ## 📂 Contents
 
-⚙️ **Torsion (Static Structural)**  
-  📂 [GitHub Repository](https://github.com/adriancrc/Ansys-Tutoriales/tree/main/Torsi%C3%B3n%20(Static%20Structural)) · 🎥 [Watch on YouTube](https://youtu.be/_SWBRu8z728)
-
+⚙️ **Fatigue (Static Structural)**  
+  📂 [GitHub Repository](https://github.com/adriancrc/Ansys-Tutoriales/tree/main/Fatiga%20(Static%20Structural)) · 🎥 [Ver en YouTube](https://www.youtube.com/watch?v=e0tzgJJADhs)
+⚙️ **Bolted Vessel (Static Structural)**  
+  📂 [GitHub Repository](https://github.com/adriancrc/Ansys-Tutoriales/tree/main/Recipiente%20Atornillado%20(Static%20Structural)) · 🎥 [Ver en YouTube](https://youtu.be/o2XyjCXyFVI)  
 ⚙️ **Uniaxial Tensile Test (Static Structural)**  
-  📂 [GitHub Repository](https://github.com/adriancrc/Ansys-Tutoriales/tree/main/Tensi%C3%B3n%20(Static%20Structural)) · 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=ERwnnnPVWfo)
+  📂 [GitHub Repository](https://github.com/adriancrc/Ansys-Tutoriales/tree/main/Tensi%C3%B3n%20(Static%20Structural) · 🎥 [Ver en YouTube](https://www.youtube.com/watch?v=ERwnnnPVWfo)
+⚙️ **Torsion (Static Structural)**  
+  📂 [GitHub Repository](https://github.com/adriancrc/Ansys-Tutoriales/tree/main/Torsi%C3%B3n%20(Static%20Structural) · 🎥 [Ver en YouTube](https://youtu.be/_SWBRu8z728)
 
 
 ---
